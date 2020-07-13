@@ -1,0 +1,5 @@
+com\aacompany\restservice\resources\JavaEE8Resource.class
+com\aacompany\restservice\NotesResource.class
+com\aacompany\restservice\NoteRepository.class
+com\aacompany\restservice\JAXRSConfiguration.class
+com\aacompany\restservice\Note.class
